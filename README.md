@@ -1,4 +1,4 @@
-<h1><a href="https://anilnitt.github.io/Live-Code-Editor/">Live CODE Editor Demo</a> </h1>
+<h1><a href="https://live-code-editors.netlify.app/">Live Code Editor Demo</a> </h1>
 
 # Getting Started with Create React App
 
